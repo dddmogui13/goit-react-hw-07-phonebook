@@ -7,7 +7,7 @@ para familiarizarse con las funciones opcionales y configurarlas.
 
 ## Crear un repositorio desde una plantilla
 
-Usa este repositorio de la organización GoIT como plantilla para crear el repositorio de tu proyecto. 
+Usa este repositoriode la organización GoIT como plantilla para crear el repositorio de tu proyecto. 
 Para hacer esto, haz clic en `«Use this template»` y selecciona la opción
 `«Create a new repository»`, tal como se muestra en la imagen.
 
