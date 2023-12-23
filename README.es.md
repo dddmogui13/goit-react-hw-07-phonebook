@@ -28,7 +28,7 @@ y súbelo a GitHub.
 
 1. Asegúrate de que la versión LTS de Node.js está instalada en tu computador.
    [Descárguela e instálela](https://nodejs.org/en/) de ser necesario.
-2. Instala las dependencias base del proyecto con el comando `npm install`.
+2. Instala las dependencias base del proyect con el comando `npm install`.
 3. Inicia el modo de desarrollo ejecutando el comando `npm start`.
 4. En tu navegador, ve a la dirección
    [http://localhost:3000](http://localhost:3000). Esta página se recargará
